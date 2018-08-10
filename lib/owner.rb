@@ -5,5 +5,5 @@ class Owner
   @pets[cats] = []
   @pets[dogs] = []
   
-  
+
 end
