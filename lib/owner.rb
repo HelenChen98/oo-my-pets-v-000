@@ -1,3 +1,9 @@
 class Owner
-  # code goes here
+  attr_accessor :pets
+
+  @pets[fishes] = []
+  @pets[cats] = []
+  @pets[dogs] = []
+  
+  
 end
